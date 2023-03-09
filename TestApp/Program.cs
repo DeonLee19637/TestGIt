@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hallo iedereen");
+﻿Console.WriteLine("Einde programma");
 //PDf pagina 68
